@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Isaac Wangombe</h1>
 <h4 align="center">A full-stack developer with a deep passion for software development and economic development, solid foundational skills in finance, training in Typescript, JavaScript, Python, HTML and CSS. Strengths and experience in software development, sales, and project management.
 
-Passionate about using technology to build solutions that create a better world for the future generations. <a href="https://drive.google.com/file/d/19ds8dHDy86_kRA16HXh7j-pmxvhhG-LE/view" target="_blank">resume</a> for more</h4>
+Passionate about using technology to build solutions that create a better world for the future generations. <br><br><a href="https://drive.google.com/file/d/19ds8dHDy86_kRA16HXh7j-pmxvhhG-LE/view" target="_blank">resume</a> for more</h4>
 
 </div>
 
@@ -13,6 +13,23 @@ Passionate about using technology to build solutions that create a better world 
 </div>
 
 ---
+
+<details>
+  <summary>🧮 about</summary>
+<div>
+<samp>
+<h2 align="center">About Me</h2>
+  <ul>
+<li>🌱 <b>Core Languages</b>: Python, Javascript, Typescript.</li>
+<li>🌱 <b>Main Frameworks</b>: Django, Angular & React.</li>
+<li>🎯 <b>Check out my portfolio</b>: <a href="https://isaacwangombe.github.io/isaac-wangombe-portfolio/">Problem-Solving</a>, ⭐️ rate the projects and leave comments if you like them 🤩.</li>
+<li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/19ds8dHDy86_kRA16HXh7j-pmxvhhG-LE/view">LINK TO MY RESUME</a>.</li>
+<li>📫 <b>How to reach me</b>: Catch and follow me from the below links :point_down:, in addition to follow me here.</li>
+<li>😄 <b>Fun fact</b>: Codeing(💻), Traveling(🌍), and Photography(📷).</li>
+        </ul>
+ </samp>
+</div>
+</details>
 
 <details>
   <summary>☎️ contact me</summary>
@@ -38,22 +55,5 @@ Passionate about using technology to build solutions that create a better world 
       <br>
     </p>
   </samp>
-</div>
-</details>
-
-<details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
-  <ul>
-<li>🌱 <b>Core Languages</b>: Python, Javascript, Typescript.</li>
-<li>🌱 <b>Main Frameworks</b>: Django, Angular & React.</li>
-<li>🎯 <b>Check out my portfolio</b>: <a href="https://isaacwangombe.github.io/isaac-wangombe-portfolio/">Problem-Solving</a>, ⭐️ rate the projects and leave comments if you like them 🤩.</li>
-<li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/19ds8dHDy86_kRA16HXh7j-pmxvhhG-LE/view">LINK TO MY RESUME</a>.</li>
-<li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-<li>😄 <b>Fun fact</b>: Codeing(💻), Traveling(🌍), and Photography(📷).</li>
-        </ul>
- </samp>
 </div>
 </details>

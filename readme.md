@@ -20,9 +20,9 @@ Passionate about using technology to build solutions that create a better world 
 <samp>
 <h2 align="center">About Me</h2>
   <ul>
-<li>🌱 <b>Core Languages</b>: Python, Javascript, Typescript.</li>
-<li>🌱 <b>Main Frameworks</b>: Django, Angular & React.</li>
-<li>🎯 <b>Check out my portfolio</b>: <a href="https://isaacwangombe.github.io/isaac-wangombe-portfolio/">Problem-Solving</a>, ⭐️ rate the projects and leave comments if you like them 🤩.</li>
+<li>:muscle: <b>Core Languages</b>: Python, Javascript, Typescript.</li>
+<li>:mechanical_arm: <b>Main Frameworks</b>: Django, Angular & React.</li>
+<li>:round_pushpin: <b>Check out my portfolio</b>: <a href="https://isaacwangombe.github.io/isaac-wangombe-portfolio/">Problem-Solving</a>, ⭐️ rate the projects and leave comments if you like them 🤩.</li>
 <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/19ds8dHDy86_kRA16HXh7j-pmxvhhG-LE/view">LINK TO MY RESUME</a>.</li>
 <li>📫 <b>How to reach me</b>: Catch and follow me from the below links :point_down:, in addition to follow me here.</li>
 <li>😄 <b>Fun fact</b>: Codeing(💻), Traveling(🌍), and Photography(📷).</li>

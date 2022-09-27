@@ -2,6 +2,7 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Isaac Wangombe</h1>
 <h4 align="center">A full-stack developer with a deep passion for software development and economic development, solid foundational skills in finance, training in Typescript, JavaScript, Python, HTML and CSS.
 <br>
+<br>
 Passionate about using technology to build solutions that create a better world for the future generations. <br><br><a href="https://drive.google.com/file/d/19ds8dHDy86_kRA16HXh7j-pmxvhhG-LE/view" target="_blank">resume</a> for more</h4>
 
 </div>
